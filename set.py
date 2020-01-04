@@ -1,0 +1,6 @@
+s = set()
+s.add(1)
+s.add(40)
+s.add(44)
+s.add(45)
+print(s)
